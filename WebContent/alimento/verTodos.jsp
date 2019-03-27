@@ -15,7 +15,7 @@
 </header>
 <!-- igrediente bat ezabatzen denean errore bat jaurtitzen da -->
 ${error}
-	<table border="1">
+	<table border="1" class="table table-striped table-dark">
 		<thead>
 			<tr>
 				<th>id</th>
