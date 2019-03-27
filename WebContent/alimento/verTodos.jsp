@@ -11,7 +11,7 @@
 </head>
 <body>
 <header>
-	<nav><a href="${pageContext.request.contextPath}/alimento/crear" class="btn btn-danger col m-1" role="button">+ Alimento</a></nav>
+	<nav><a href="${pageContext.request.contextPath}/alimento/crear" class="btn btn-danger col m-1" role="button">Añadir Alimento</a></nav>
 </header>
 <!-- igrediente bat ezabatzen denean errore bat jaurtitzen da -->
 ${error}
