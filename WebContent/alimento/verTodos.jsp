@@ -18,10 +18,10 @@ ${error}
 	<table border="1" class="table table-striped table-dark rounded">
 		<thead>
 			<tr>
-				<th>id</th>
-				<th>nombre</th>
-				<th>descripcion</th>
-				<th>accion</th>
+				<th>Id</th>
+				<th>Nombre</th>
+				<th>Descripcion</th>
+				<th>Accion</th>
 			</tr>
 		</thead>
 		<tbody>
